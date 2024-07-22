@@ -1,1 +1,16 @@
-# LLM-cares-about-u
+# LLM Cares About U: 医疗问诊助手项目
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/LLM-cares-about-u/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/LLM-cares-about-u)](https://github.com/yourusername/LLM-cares-about-u/issues)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/LLM-cares-about-u)](https://github.com/yourusername/LLM-cares-about-u/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/LLM-cares-about-u)](https://github.com/yourusername/LLM-cares-about-u/network)
+
+## 简介
+LLM Cares About U 是一个医疗问诊助手，旨在为用户提供便捷的初步的医疗建议和健康指导。
+
+
+
+## 使用方法
+- **问诊流程**:
+  - 用户输入症状描述。
+  - 系统提供可能的疾病列表和建议。
